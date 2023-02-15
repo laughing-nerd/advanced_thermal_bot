@@ -28,7 +28,6 @@ trigger = Pin(3, Pin.OUT)
 
 #ThingSpeak
 HTTP_HEADERS={'Content-Type': 'aplication/json'}
-API=""
 
 def Forward():  
     motor_left_1.value(0)
