@@ -1,0 +1,3 @@
+ssid="iPie"
+password="45556098"
+API="2XAFBUOEQ74N43NI"
